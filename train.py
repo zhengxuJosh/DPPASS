@@ -119,7 +119,6 @@ def main():
     #================================hyper parameters================================#
     parser.add_argument('--alpha', type=float, default =0.5, help='alpha')
     parser.add_argument('--lamda', type=float, default =0.001, help='lamda')
-    parser.add_argument('--dis_lr', type=float, default =0.001, help='dis_lr')
     #================================================================================#
     args = parser.parse_args()
     best_performance = 0.0
