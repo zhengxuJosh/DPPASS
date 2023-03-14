@@ -1,4 +1,4 @@
-# DPPASS 
+# Dual-path UDA for Panoramic Semantic Segmentation
 
 **Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation** CVPR 2023, [[PDF]]()
 
