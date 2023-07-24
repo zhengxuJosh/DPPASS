@@ -64,3 +64,13 @@ The DensePASS dataset is availabel at [Trans4PASS](https://github.com/jamycheung
 We appreciate the previous open-source works.
 * [Trans4PASS / Trans4PASS+](https://github.com/jamycheung/Trans4PASS)
 * [Segformer](https://github.com/NVlabs/SegFormer)
+
+<p>Bibtex:</p>
+<pre><code>@inproceedings{zheng2023both,
+  title={Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation},
+  author={Zheng, Xu and Zhu, Jinjing and Liu, Yexin and Cao, Zidong and Fu, Chong and Wang, Lin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1285--1295},
+  year={2023}
+}
+</code></pre>
